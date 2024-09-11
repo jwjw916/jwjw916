@@ -5,8 +5,6 @@
 
 - 🤝 I’m looking for help with [Clone Coding](https://github.com/jwjw916/CC_project/blob/main/README.md)
 
-- 📝 I regularly write articles on [https://velog.io/@wjeditor916](https://velog.io/@wjeditor916)
-
 - 📫 How to reach me **wjeditor916@gmail.com**
 
 <!--<h3 align="left">Connect with me:</h3>--!>
